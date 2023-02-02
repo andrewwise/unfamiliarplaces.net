@@ -8,6 +8,7 @@ guid: 'http://unfamiliarplaces.net/?p=1'
 permalink: /2015/01/24/our-travels/
 categories:
     - Uncategorised
+background: "https://unfamiliarplaces.net/wp-content/themes/unfamiliarplaces/images/header-background.jpg"
 ---
 
 This blog is for us to keep a journal of our travels and share with others.
