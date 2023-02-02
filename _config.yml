@@ -26,8 +26,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: UnfamiliarPl
 
 # Build settings
-theme: minima
+#theme: minima
+remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
 
 # Exclude from processing.
