@@ -28,9 +28,12 @@ twitter_username: UnfamiliarPl
 # Build settings
 #theme: minima
 remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
+paginate: 5
+paginate_path: "/posts/page:num/"
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
+  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default.
