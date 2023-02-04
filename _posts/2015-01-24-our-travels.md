@@ -13,4 +13,4 @@ background: "https://unfamiliarplaces.net/wp-content/themes/unfamiliarplaces/ima
 
 This blog is for us to keep a journal of our travels and share with others.
 
-[![IMG_7667](http://unfamiliarplaces.net/wp-content/uploads/2014/07/IMG_7667-768x512.jpg)](http://unfamiliarplaces.net/wp-content/uploads/2014/07/IMG_7667.jpg)
+[![IMG_7667](/images/posts/2015-01-24-our-travels/IMG_7667-768x512.jpg)](/images/posts/2015-01-24-our-travels/IMG_7667.jpg)
