@@ -11,7 +11,7 @@ categories:
 tags:
     - festivals
     - vw
-background: "https://unfamiliarplaces.net/wp-content/uploads/2016/08/IMG_20160814_140622.jpg"
+background: "/images/posts/2017-08-10-thinking-back-to-the-sights-sounds-and-smells-of-vw-festival-2016/IMG_20160814_140622.jpg"
 ---
 
 > “You know what the worst place to be sat in traffic is? The queue to leave a Volkswagen festival…” I said. Dani laughed.
