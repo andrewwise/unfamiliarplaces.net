@@ -28,7 +28,8 @@ twitter_username: UnfamiliarPl
 
 # Build settings
 #theme: minima
-remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
+#remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
+remote_theme: Gorlenah/startbootstrap-clean-blog-jekyll # Fork of StartBootstrap/startbootstrap-clean-blog-jekyll with fix for deprecated Sass function
 paginate: 5
 paginate_path: "/posts/page:num/"
 plugins:
