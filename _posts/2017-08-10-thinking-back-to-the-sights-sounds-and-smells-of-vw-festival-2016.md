@@ -22,34 +22,34 @@ This was the first time either of us had been to a car-centered festival, or ind
 
 Beetles and Transporters, Harlequins and Rats, I caught some of mine and Dani’s favourite cars on camera…
 
-[![Beetles at VW Festival 2016](/images/posts/thinking-back-to-the-sights-sounds-and-smells-of-vw-festival-2016/IMG_20160814_140622-768x568.jpg)](/images/posts/thinking-back-to-the-sights-sounds-and-smells-of-vw-festival-2016/IMG_20160814_140622.jpg)
+[![Beetles at VW Festival 2016](/images/posts/2017-08-10-thinking-back-to-the-sights-sounds-and-smells-of-vw-festival-2016/IMG_20160814_140622-768x568.jpg)](/images/posts/2017-08-10-thinking-back-to-the-sights-sounds-and-smells-of-vw-festival-2016/IMG_20160814_140622.jpg)
 
 Beetles on display.
 
-[![Baja Bug and a sand rail](/images/posts/thinking-back-to-the-sights-sounds-and-smells-of-vw-festival-2016/IMG_20160814_141232-768x568.jpg)](/images/posts/thinking-back-to-the-sights-sounds-and-smells-of-vw-festival-2016/IMG_20160814_141232.jpg)
+[![Baja Bug and a sand rail](/images/posts/2017-08-10-thinking-back-to-the-sights-sounds-and-smells-of-vw-festival-2016/IMG_20160814_141232-768x568.jpg)](/images/posts/2017-08-10-thinking-back-to-the-sights-sounds-and-smells-of-vw-festival-2016/IMG_20160814_141232.jpg)
 
 Baja Bug and a sand rail.
 
-[![VW Type 3 Squareback](/images/posts/thinking-back-to-the-sights-sounds-and-smells-of-vw-festival-2016/IMG_20160814_144739-768x568.jpg)](/images/posts/thinking-back-to-the-sights-sounds-and-smells-of-vw-festival-2016/IMG_20160814_144739.jpg)
+[![VW Type 3 Squareback](/images/posts/2017-08-10-thinking-back-to-the-sights-sounds-and-smells-of-vw-festival-2016/IMG_20160814_144739-768x568.jpg)](/images/posts/2017-08-10-thinking-back-to-the-sights-sounds-and-smells-of-vw-festival-2016/IMG_20160814_144739.jpg)
 
 Type 3 Squareback.
 
-[![VW MK4 Golf Estate pickup conversion](/images/posts/thinking-back-to-the-sights-sounds-and-smells-of-vw-festival-2016/IMG_20160814_145533-768x568.jpg)](/images/posts/thinking-back-to-the-sights-sounds-and-smells-of-vw-festival-2016/IMG_20160814_145533.jpg)
+[![VW MK4 Golf Estate pickup conversion](/images/posts/2017-08-10-thinking-back-to-the-sights-sounds-and-smells-of-vw-festival-2016/IMG_20160814_145533-768x568.jpg)](/images/posts/2017-08-10-thinking-back-to-the-sights-sounds-and-smells-of-vw-festival-2016/IMG_20160814_145533.jpg)
 
 MK4 Golf Estate pickup conversion.
 
-[![VW Beetle Ratrod](/images/posts/thinking-back-to-the-sights-sounds-and-smells-of-vw-festival-2016/IMG_20160814_150301-768x568.jpg)](/images/posts/thinking-back-to-the-sights-sounds-and-smells-of-vw-festival-2016/IMG_20160814_150301.jpg)
+[![VW Beetle Ratrod](/images/posts/2017-08-10-thinking-back-to-the-sights-sounds-and-smells-of-vw-festival-2016/IMG_20160814_150301-768x568.jpg)](/images/posts/2017-08-10-thinking-back-to-the-sights-sounds-and-smells-of-vw-festival-2016/IMG_20160814_150301.jpg)
 
 Ratrod Beelte.
 
-[![VW Beetle with a transparent engine cover](/images/posts/thinking-back-to-the-sights-sounds-and-smells-of-vw-festival-2016/IMG_20160814_150620-768x568.jpg)](/images/posts/thinking-back-to-the-sights-sounds-and-smells-of-vw-festival-2016/IMG_20160814_150620.jpg)
+[![VW Beetle with a transparent engine cover](/images/posts/2017-08-10-thinking-back-to-the-sights-sounds-and-smells-of-vw-festival-2016/IMG_20160814_150620-768x568.jpg)](/images/posts/2017-08-10-thinking-back-to-the-sights-sounds-and-smells-of-vw-festival-2016/IMG_20160814_150620.jpg)
 
 Beetle with a transparent engine cover.
 
-[![VW Type 2 Splitty Camper blue 21 window with sunroof](/images/posts/thinking-back-to-the-sights-sounds-and-smells-of-vw-festival-2016/IMG_20160814_152946-768x568.jpg)](/images/posts/thinking-back-to-the-sights-sounds-and-smells-of-vw-festival-2016/IMG_20160814_152946.jpg)
+[![VW Type 2 Splitty Camper blue 21 window with sunroof](/images/posts/2017-08-10-thinking-back-to-the-sights-sounds-and-smells-of-vw-festival-2016/IMG_20160814_152946-768x568.jpg)](/images/posts/2017-08-10-thinking-back-to-the-sights-sounds-and-smells-of-vw-festival-2016/IMG_20160814_152946.jpg)
 
 Dani’s favourite, a 21 window Splitty.
 
-[![VW Passat B4 Estate Harlequin](/images/posts/thinking-back-to-the-sights-sounds-and-smells-of-vw-festival-2016/IMG_20160814_155510-768x568.jpg)](/images/posts/thinking-back-to-the-sights-sounds-and-smells-of-vw-festival-2016/IMG_20160814_155510.jpg)
+[![VW Passat B4 Estate Harlequin](/images/posts/2017-08-10-thinking-back-to-the-sights-sounds-and-smells-of-vw-festival-2016/IMG_20160814_155510-768x568.jpg)](/images/posts/2017-08-10-thinking-back-to-the-sights-sounds-and-smells-of-vw-festival-2016/IMG_20160814_155510.jpg)
 
 This guy bought a new engine for his custom Harlequin VW Passat the day before setting off to VW Festival, fitted it and then drove it all the way from Belgium!
