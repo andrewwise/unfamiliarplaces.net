@@ -5,7 +5,7 @@ date: '2017-02-12T22:49:39+00:00'
 author: Andrew
 layout: post
 guid: 'http://unfamiliarplaces.net/?p=55'
-permalink: '/?p=55'
+permalink: '/copenhagen'
 categories:
     - Uncategorised
 ---

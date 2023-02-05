@@ -5,9 +5,10 @@ date: '2016-08-28T09:35:58+00:00'
 author: Andrew
 layout: post
 guid: 'http://unfamiliarplaces.net/?p=20'
-permalink: '/?p=20'
+permalink: '/arriving-in-berlin'
 categories:
     - Berlin
+background: "/images/posts/arriving-in-berlin/IMG_0184.jpg"
 ---
 
 Berlin is a probably one of the best places to start off our blog with, as it is unlike any other city we have been to before. The way people live differs from place to place, the feel of each and every city is different to every other city. From the way people treat each other, the architecture of the buildings and to more mundane things like how streets are laid out and how people get around. Berlin is different again. It seems somehow more unique than any other European city.
@@ -18,14 +19,14 @@ The metro, the city trains, and trams all run on an honour system. That is, it�
 
 As the train traveled from the outskirts of Berlin towards the centre we passed through miles of allotments and German style housing.
 
-[![Oberbaum Bridge in the rain](http://unfamiliarplaces.net/wp-content/uploads/2016/05/IMG_0198_CROP-509x800.jpg)](http://unfamiliarplaces.net/wp-content/uploads/2016/05/IMG_0198_CROP.jpg)
+[![Oberbaum Bridge in the rain](/images/posts/arriving-in-berlin/IMG_0198_CROP-509x800.jpg)](/images/posts/arriving-in-berlin/IMG_0198_CROP.jpg)
 
 Arriving at very much under construction Berlin Warschauer Straße Station in the rain we’d hoped to leave behind in England, we sought out the route to our hotel, following the tram lines down towards the Spree river we quickly got distracted by the Oberbaum bridge and the south-east end of the East Side Gallery. Water-proof clad tourists swarmed around the wall and nearby currywurst stall, we stopped briefly to have a look around and see the wall stretch off towards the centre of Berlin before heading to our hotel.
 
-[![IMG_0178](http://unfamiliarplaces.net/wp-content/uploads/2016/08/IMG_0178-e1472054789732-533x800.jpg)](http://unfamiliarplaces.net/wp-content/uploads/2016/08/IMG_0178-e1472054789732.jpg)
+[![IMG_0178](/images/posts/arriving-in-berlin/IMG_0178-768x512.jpg)](/images/posts/arriving-in-berlin/IMG_0178.jpg)
 
 A sculpture overlooking the Spree next to the Universal Music building.
 
-[![IMG_0184](http://unfamiliarplaces.net/wp-content/uploads/2016/08/IMG_0184-768x512.jpg)](http://unfamiliarplaces.net/wp-content/uploads/2016/08/IMG_0184.jpg)
+[![IMG_0184](/images/posts/arriving-in-berlin/IMG_0184-768x512.jpg)](/images/posts/arriving-in-berlin/IMG_0184.jpg)
 
 A convoy of Trabant cars.

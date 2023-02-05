@@ -5,7 +5,7 @@ date: '2017-04-21T23:44:35+00:00'
 author: 'Dani Barge'
 layout: post
 guid: 'http://unfamiliarplaces.net/?p=63'
-permalink: '/?p=63'
+permalink: '/biking-in-beautiful-berlin'
 categories:
     - Berlin
 ---
