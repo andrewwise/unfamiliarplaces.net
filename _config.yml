@@ -24,6 +24,7 @@ name: 'Unfamiliar Places'
 description: 'Travel Journal of Dani and Andrew'
 author: Andrew & Dani Wise
 baseurl: "" # the subpath of your site, e.g. /blog
+email: andrew@andrewise.co.uk
 twitter_username: UnfamiliarPl
 
 # Build settings
