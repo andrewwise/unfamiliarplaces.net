@@ -4,6 +4,11 @@
 
 @import "styles";
 
+// Center images in post content
+.container p:has(img) {
+  text-align: center;
+}
+
 // .fluid-img
 .container img {
   max-width: 100%;
