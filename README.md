@@ -23,4 +23,10 @@ bundle exec jekyll serve --drafts
 
 ## Theme
 
-The theme used is [Start Bootstrap - Clean Blog Jekyll ](https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll). Currently [a fork](https://github.com/Gorlenah/startbootstrap-clean-blog-jekyll) is being used as it fixes a deprecation warning in Dart Sass.
+The theme used is [Start Bootstrap - Clean Blog Jekyll](https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll). 
+
+Note: There is a [a fork](https://github.com/Gorlenah/startbootstrap-clean-blog-jekyll) that fixes a deprecation warning in Dart Sass.
+
+The theme and HTML content use [Bootstrap](https://getbootstrap.com/).
+
+The icons are provided by [Font Awesome](https://fontawesome.com/icons).
