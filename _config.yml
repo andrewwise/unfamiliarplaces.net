@@ -26,6 +26,7 @@ author: Andrew & Dani Wise
 baseurl: "" # the subpath of your site, e.g. /blog
 email: andrew@andrewise.co.uk
 twitter_username: UnfamiliarPl
+google_analytics: G-LTENRT9XKJ
 
 # Build settings
 #theme: minima
