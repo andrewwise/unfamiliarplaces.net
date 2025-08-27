@@ -4,6 +4,9 @@ date: '2025-06-04T20:00:00+00:00'
 author: Andrew
 layout: page
 permalink: guides/visitors-guide-to-copenhagen/
+description: A comprehensive guide for visitors to Copenhagen, covering transport, sights, food, and day trips.
+excerpt: A comprehensive guide for visitors to Copenhagen.
+background: /images/posts/guides/copenhagen/PXL_20240513_153019949.jpg
 ---
 
 * Do not remove this line (it will not be displayed)
@@ -25,19 +28,31 @@ I would recommend downloading the [rejsekort app](https://www.rejsekort.dk/en/re
 
 ## Bike share
 
-There are various different choice of bike share in Copenhagen. My preference is [Donkey Bike](https://www.donkey.bike/) (aka Donkey Republic). These bright orange bikes can be found all over the city and be unlocked with the Donkey Bike app. They also operate in other cities so once you have set up the app it can be useful on other travels. They're also mainly conventional bikes (as opposed to e-bikes) and are generally good value.
+There are various different choice of bike share in Copenhagen. My preference is [Donkey Bike](https://www.donkey.bike/) (aka Donkey Republic). These bright orange bikes can be found all over the city and be unlocked with the Donkey Bike app. They also operate in other cities so once you have set up the app it can be useful on other travels. They're mainly conventional bikes (as opposed to e-bikes) and are generally good value.
 
 Be sure to check over the condition of the bike you are renting before unlocking it with app.
 
-## Useful info
+## Luggage storage
 
-* There are luggage lockers at Copenhagen Central Station (København H). They are located down the stairs near the east entrance to the station.
+There are luggage lockers at Copenhagen Central Station (København H). They are located down the stairs near the east entrance to the station.
 
 # Must see
 
-* Nyhavn
-* Round Tower
-* Tivoli Gardens
+## Nyhavn
+
+![Nyhavn in summer](/images/posts/guides/copenhagen/PXL_20240513_153019949.jpg){:style="float: right"}
+
+Nyhavn (meaning "New Haven") is a harbour and canal lined wth colourful buildings, as well has harbouring many old wooden ships, it is probably one of the most photographed part of all of Copenhagen.
+
+## Round Tower
+
+Roundtower (or "Rundetaarn") 17th-century tower in the center of the city. For a small fee you can climb to the top and get a view of the city from the open air viewing platform as. It is peculiar because most of the journey to the top is a continuous spiral ramp rather than steps.
+
+Opening hours are general good so it possible to visit during the early evening.
+
+The top also has an observatory, which is open and staffed during winter from 18:00 to 21:00 on Tuesdays and Wednesdays
+
+## Tivoli Gardens
 
 # Top sights
 
