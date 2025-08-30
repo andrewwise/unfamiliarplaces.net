@@ -24,11 +24,11 @@ The airport is also connect to line 2 of the metro system so depending on where 
 
 Copenhagen has an extensive public transport system that includes buses, trains, and a metro train.
 
-I would recommend downloading the [rejsekort app](https://www.rejsekort.dk/en/rejsekort_app) and configuring it with your card details. This allows you jump on any form of public transport in Denmark, use the app to "activate" your journey and then "deactivate" it at the end of your journey. This will then automatically charge you the correct amount for your journey without having to find and navigate a ticket machine. Only one person in any given group is required to have the app as they can add other passengers to their journey.
+I would recommend downloading the [rejsekort app](https://www.rejsekort.dk/en/rejsekort_app){:target="_blank"} and configuring it with your card details. This allows you jump on any form of public transport in Denmark, use the app to "activate" your journey and then "deactivate" it at the end of your journey. This will then automatically charge you the correct amount for your journey without having to find and navigate a ticket machine. Only one person in any given group is required to have the app as they can add other passengers to their journey.
 
 ## Bike share
 
-There are various different choice of bike share in Copenhagen. My preference is [Donkey Bike](https://www.donkey.bike/) (aka Donkey Republic). These bright orange bikes can be found all over the city and be unlocked with the Donkey Bike app. They also operate in other cities so once you have set up the app it can be useful on other travels. They're mainly conventional bikes (as opposed to e-bikes) and are generally good value.
+There are various different choice of bike share in Copenhagen. My preference is [Donkey Bike](https://www.donkey.bike/){:target="_blank"} (aka Donkey Republic). These bright orange bikes can be found all over the city and be unlocked with the Donkey Bike app. They also operate in other cities so once you have set up the app it can be useful on other travels. They're mainly conventional bikes (as opposed to e-bikes) and are generally good value.
 
 Be sure to check over the condition of the bike you are renting before unlocking it with app.
 
@@ -40,19 +40,31 @@ There are luggage lockers at Copenhagen Central Station (København H). They are
 
 ## Nyhavn
 
-![Nyhavn in summer](/images/posts/guides/copenhagen/PXL_20240513_153019949.jpg){:style="float: right"}
+![Nyhavn in summer](/images/posts/guides/copenhagen/PXL_20240513_153019949.jpg)
 
 Nyhavn (meaning "New Haven") is a harbour and canal lined wth colourful buildings, as well has harbouring many old wooden ships, it is probably one of the most photographed part of all of Copenhagen.
 
+[Maps](https://maps.app.goo.gl/C52HUuaDQES7WvaT7){:target="_blank"} \| [Website](https://www.visitcopenhagen.com/copenhagen/planning/nyhavn-gdk474735){:target="_blank"}
+
 ## Round Tower
+
+![Round Tower](/images/posts/guides/copenhagen/IMG_1771.JPG){:class="portrait"}
 
 Roundtower (or "Rundetaarn") 17th-century tower in the center of the city. For a small fee you can climb to the top and get a view of the city from the open air viewing platform as. It is peculiar because most of the journey to the top is a continuous spiral ramp rather than steps.
 
+![Pano of the view from the top of the Copenhagen Round Tower](/images/posts/guides/copenhagen/IMG_1749-PANO.jpg){:class="xl"}
+
 Opening hours are general good so it possible to visit during the early evening.
 
-The top also has an observatory, which is open and staffed during winter from 18:00 to 21:00 on Tuesdays and Wednesdays
+The top also has an observatory that you can access, which is open and staffed during winter from 18:00 to 21:00 on Tuesdays and Wednesdays.
+
+[Maps](https://maps.app.goo.gl/qio8UtwcUGi1mcA47){:target="_blank"} \| [Website](https://www.rundetaarn.dk/en/){:target="_blank"}
 
 ## Tivoli Gardens
+
+Tivoli Gardens is an iconic amusement park and garden in the centre of Copenhagen. It is one of the oldest amusement parks in the world.
+
+[Maps](https://maps.app.goo.gl/27F7CmhqxqTjMpnq9){:target="_blank"} \| [Website](https://www.tivoligardens.com/en){:target="_blank"}
 
 # Top sights
 

@@ -14,3 +14,21 @@
   max-width: 100%;
   height: auto;
 }
+
+// Icon for external links
+a[target=_blank]:after { 
+  content: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAQElEQVR42qXKwQkAIAxDUUdxtO6/RBQkQZvSi8I/pL4BoGw/XPkh4XigPmsUgh0626AjRsgxHTkUThsG2T/sIlzdTsp52kSS1wAAAABJRU5ErkJggg==);
+  margin: 0 3px 0 5px;
+} 
+
+img.portrait {
+  max-height: 50vh;
+  max-width: 70vw;
+}
+
+@media (min-width: 768px) {
+  img.xl {
+    max-width: 140%;
+    margin-left: -20%;
+  }
+}
