@@ -18,7 +18,9 @@ background: /images/posts/guides/copenhagen/PXL_20240513_153019949.jpg
 
 Copenhagen Airport (CPH) is well connected to the city center. The easiest way to get there is by train, which runs frequently and takes about 15 minutes.
 
-The airport is also connect to line 2 of the metro system so depending on where you are travelling from the airport this might be a better choice for your.
+![Interior of a modern Danish train](/images/posts/guides/copenhagen/PXL_20250530_114805986.jpg){:title="Interior of a modern Danish train" class="s"}
+
+The airport is also connected to line 2 of the metro system so depending on where you are travelling from the airport this might be a better choice for your.
 
 ## Public transport
 
@@ -30,6 +32,8 @@ I would recommend downloading the [rejsekort app](https://www.rejsekort.dk/en/re
 
 There are various different choice of bike share in Copenhagen. My preference is [Donkey Bike](https://www.donkey.bike/){:target="_blank"} (aka Donkey Republic). These bright orange bikes can be found all over the city and be unlocked with the Donkey Bike app. They also operate in other cities so once you have set up the app it can be useful on other travels. They're mainly conventional bikes (as opposed to e-bikes) and are generally good value.
 
+![Two Donkey Bikes](/images/posts/guides/copenhagen/PXL_20240513_172327081.jpg){:title="Two Donkey Bikes" class="portrait"}
+
 Be sure to check over the condition of the bike you are renting before unlocking it with app.
 
 ## Luggage storage
@@ -40,31 +44,41 @@ There are luggage lockers at Copenhagen Central Station (København H). They are
 
 ## Nyhavn
 
-![Nyhavn in summer](/images/posts/guides/copenhagen/PXL_20240513_153019949.jpg)
+![Nyhavn in summer](/images/posts/guides/copenhagen/PXL_20240513_153019949.jpg){:title="Nyhavn in summer"}
 
 Nyhavn (meaning "New Haven") is a harbour and canal lined wth colourful buildings, as well has harbouring many old wooden ships, it is probably one of the most photographed part of all of Copenhagen.
 
 [Maps](https://maps.app.goo.gl/C52HUuaDQES7WvaT7){:target="_blank"} \| [Website](https://www.visitcopenhagen.com/copenhagen/planning/nyhavn-gdk474735){:target="_blank"}
 
+## Tivoli Gardens
+
+![Image of the Tivoli Gardens at night when it is closed](/images/posts/guides/copenhagen/IMG_20170207_214259~2-edited.jpg){:class="portrait" title="Tivoli Gardens in winter when it is closed"}
+
+Tivoli Gardens is one of the oldest amusement parks in the world. It's right in the centre of Copenhagen directly across from the main train station and very close to the city hall.
+
+![Tivoli Gardens in summer](/images/posts/guides/copenhagen/PXL_20240512_160725131.jpg){:title="Tivoli Gardens in summer"}
+
+As well as the rides and attractions, Tivoli Gardens also has beautiful gardens and a lake. The whole park is very well maintained.
+
+If you visit I recommend riding the Rutschebanen (Roller Coaster), it's the third oldest roller coaster in the world and has been in continuous operation since 1914.
+
+[Maps](https://maps.app.goo.gl/27F7CmhqxqTjMpnq9){:target="_blank"} \| [Website](https://www.tivoligardens.com/en){:target="_blank"}
+
 ## Round Tower
 
-![Round Tower](/images/posts/guides/copenhagen/IMG_1771.JPG){:class="portrait"}
+![Round Tower](/images/posts/guides/copenhagen/IMG_1771.JPG){:class="portrait" title="Round Tower"}
 
 Roundtower (or "Rundetaarn") 17th-century tower in the center of the city. For a small fee you can climb to the top and get a view of the city from the open air viewing platform as. It is peculiar because most of the journey to the top is a continuous spiral ramp rather than steps.
 
-![Pano of the view from the top of the Copenhagen Round Tower](/images/posts/guides/copenhagen/IMG_1749-PANO.jpg){:class="xl"}
+![Interior of the Copenhagen Round Tower](/images/posts/guides/copenhagen/IMG_1744.JPG){:class="s" title="Interior of the Copenhagen Round Tower"}
 
 Opening hours are general good so it possible to visit during the early evening.
+
+![Pano of the view from the top of the Copenhagen Round Tower](/images/posts/guides/copenhagen/IMG_1749-PANO.jpg){:class="xl" title="Pano of the view from the top of the Copenhagen Round Tower"}
 
 The top also has an observatory that you can access, which is open and staffed during winter from 18:00 to 21:00 on Tuesdays and Wednesdays.
 
 [Maps](https://maps.app.goo.gl/qio8UtwcUGi1mcA47){:target="_blank"} \| [Website](https://www.rundetaarn.dk/en/){:target="_blank"}
-
-## Tivoli Gardens
-
-Tivoli Gardens is an iconic amusement park and garden in the centre of Copenhagen. It is one of the oldest amusement parks in the world.
-
-[Maps](https://maps.app.goo.gl/27F7CmhqxqTjMpnq9){:target="_blank"} \| [Website](https://www.tivoligardens.com/en){:target="_blank"}
 
 # Top sights
 
