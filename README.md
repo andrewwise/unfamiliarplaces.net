@@ -36,6 +36,13 @@ The icons are provided by [Font Awesome](https://fontawesome.com/icons).
 Images are resized using [ImageMagick](https://imagemagick.org/index.php).
 
 To resize an image to a maximum width of 1920px:
+
 ```
 mogrify -resize 1920 *.jpg *.JPG
+```
+
+For creating other sizes in a new directory, for example 768x568:
+
+```
+mogrify -resize 768x568 -path 768x568 *.jpg *.JPG
 ```
