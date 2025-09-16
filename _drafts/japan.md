@@ -5,14 +5,14 @@ layout: page
 permalink: guides/japan-travel-tips/
 description: A shortlist of recommendations for Japan.
 excerpt: A shortlist of recommendations for Japan.
-background: /images/posts/guides/japan/PXL_20240513_153019949.jpg
+background: /images/posts/guides/japan/IMG_4725.JPG
 ---
 
 # Overview
 
 I've visited Japan only once, back in March/April 2019 during the cherry blossom season, so this is far from a comprehensive guide. However, I thought it would be useful to share some of my tips for travelling in Japan. This mainly focuses on Tokyo, Kyoto and Osaka, as these are the places myself and my wife Dani visited. They are very easy to get between using the Shinkansen (bullet train).
 
-When we visited we spent 7 nights in [Tokyo](#tokyo), 4 nights in [Kyoto](#kyoto), 2 nights in [Osaka](#osaka), including a day trip to [Nara](#nara), and then 2 nights in Tokyo again before flying home. Keep in mind we we're also seeing 3 friends while in Tokyo, so opted spend a couple extra time there.
+When we visited we spent 7 nights in [Tokyo](#tokyo), 4 nights in [Kyoto](#kyoto), 2 nights in [Osaka](#osaka), including a day trip to [Nara](#nara), and then 2 nights in Tokyo again before flying home. Keep in mind we were also seeing 3 friends while in Tokyo, so opted spend a couple extra time there.
 
 # Tokyo
 
@@ -47,6 +47,7 @@ Koyoto is Japan's old capital city. It has many historic buildings and shrines. 
 * Arashiyama Monkey Park Iwatayama - A mountainside wildlife park with a circular walk featuring wild macaques and great views back over the city. The opposite side of the Katsura river to the Arashiyama Bamboo Grove, these can be visited on the same day quite easily.
 * Gion District - known for its traditional wooden machiya houses and geisha culture.
 * Higashi Hongan-ji Temple - A temple right next to the main Kyoto train station. Although it's not one of the main tourist destinations in Kyoto, it's worth the walk from the train station as it's a lot less crowded than other places.
+* Toji Temple - A temple with a five-story pagoda, the tallest wooden tower in Japan. It's about a 15 minute walk from Kyoto station and worth visiting if you're in the area. When we visited they were holding a special event at night where the template and the surrounding cherry blossom trees were all lit up.
 
 # Osaka
 
@@ -62,7 +63,13 @@ Nara is smaller city near both Osaka or Kyoto and can be visited as a day trip f
 
 ## Public transport
 
+Public transport in Japan is excellent and extremely easy to use. The only slightly tricky part is that there are multiple different companies running the trains and metro systems, so you may need to change between them during your journey. This may require two separate tickets. However, the signage is very good and everything is clearly marked in both Japanese and English.
+
 ## Food
+
+There's so much great food in Japan. It's been a while since we visited so I'll only mention one place that we visited as it's very good and very convenient. That is T's Tantan, a vegan ramen restaurant in Tokyo station. It's located in the underground mall area of the station, near the Yaesu South Exit. The ramen is excellent and they have a few different varieties to choose from.
+
+It's also worth mentioning that convenience stores in Japan are worth visiting for food. We often picked up snacks, drinks and lunch from them. The main chains to look out for are 7-Eleven, Lawson and FamilyMart.
 
 ## Accommodation
 
