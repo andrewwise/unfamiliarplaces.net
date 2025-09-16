@@ -3,20 +3,20 @@ title: 'Japan travel tips'
 author: Andrew
 layout: page
 permalink: guides/japan-travel-tips/
-description: A shortlist of recommendations for Japan.
+description: A shortlist of recommendations for when travelling in Japan.
 excerpt: A shortlist of recommendations for Japan.
 background: /images/posts/guides/japan/IMG_4725.JPG
 ---
 
 # Overview
 
-I've visited Japan only once, back in March/April 2019 during the cherry blossom season, so this is far from a comprehensive guide. However, I thought it would be useful to share some of my tips for travelling in Japan. This mainly focuses on Tokyo, Kyoto and Osaka, as these are the places myself and my wife Dani visited. They are very easy to get between using the Shinkansen (bullet train).
+I've visited Japan back in March/April 2019 during the cherry blossom season, so this is far from a comprehensive guide. However, I thought it would be useful to share some of my tips for travelling in Japan. This mainly focuses on Tokyo, Kyoto and Osaka, as these are the places myself and my wife Dani visited. They are very easy to get between using the Shinkansen (bullet train).
 
 When we visited we spent 7 nights in [Tokyo](#tokyo), 4 nights in [Kyoto](#kyoto), 2 nights in [Osaka](#osaka), including a day trip to [Nara](#nara), and then 2 nights in Tokyo again before flying home. Keep in mind we were also seeing 3 friends while in Tokyo, so opted spend a couple extra time there.
 
 # Tokyo
 
-## Main sights
+## Sights
 
 * Imperial Palace Gardens - Large gardens and park in the centre of Tokyo. It's free to enter and a nice place to walk around. Lots of cherry blossom trees blooming in spring.
 * Tokyo Tower - Arguably the most iconic landmark in Tokyo, with great views over the city.
@@ -26,9 +26,6 @@ When we visited we spent 7 nights in [Tokyo](#tokyo), 4 nights in [Kyoto](#kyoto
 * Ghibli Museum - Museum of Studio Ghibli, a must see for fans of their films. When visiting you get to a view a short film that is only shown to visitors of the museum and is not publicly released. **You must book well in advanced to visit here.** I'd recommend taking the metro to Kichijoji station and then walking through Inokashira Park to get to the museum.
 * Shinjuku Gyoen National Garden - A large and very pretty park right near Shinjuku station.
 * Tokyo Skytree - The tallest structure in Japan and third tallest above ground structure in the world. We didn't visit this on our trip as, although it's much larger than the Tokyo Tower and the Roppongi Hills Mori Tower, it's not in central Tokyo and would have required a trip to an area of Tokyo we didn't plan on visiting on this trip.
-
-## Other sights
-
 * Roppongi Hills Mori Tower - A 54 story building with a [art gallery](https://art-view.roppongihills.com/en/info/index.html) and outdoor [viewing platform at the top](https://tcv.roppongihills.com/en/). Great views of the Tokyo Tower.
 * [Snoopy Museum Tokyo](https://maps.app.goo.gl/W5xqnQdFy9PJ3Yhk8) - If you're into Peanuts, this museum if excellent. Dani is a big fan, so we had to visit. It's moved location since we were there but is still appears to be well liked.
 
@@ -73,4 +70,4 @@ It's also worth mentioning that convenience stores in Japan are worth visiting f
 
 ## Accommodation
 
-APA Hotels are a good convenient chain hotel. The rooms are small but clean and functional.
+APA Hotels are a good convenient chain hotel. The rooms are small but clean, functional and cheap.
