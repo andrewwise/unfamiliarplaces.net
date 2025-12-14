@@ -118,16 +118,28 @@ The top also has an observatory that you can access, which is open and staffed d
 
 # Food and drink
 
-* Atlas Bar
+* Atlas Bar - Vegan bar with great food in central Copenhagen.
 
 # Day trips
 
 ## Helsingør and Kronborg Castle
 
+Helsingør is a coastal town 55 minutes north of Copenhagen by train, it is my top pick for a day trip out of Copenhagen if you leave in the morning. It is home to the famous and imposing Kronborg Castle, known as Elsinore in Shakespeare's play Hamlet. Trains there run frequently from Copenhagen Central Station.
+
+The castle has views over the Øresund strait to Sweden and is a UNESCO World Heritage Site. It has also a large underground casemates network that is fun to explore.
+
 ## Roskilde and The Viking Ship Museum
+
+Roskilde is a historic city located about 30 minutes west of Copenhagen by train. It is famous for its impressive cathedral, which is a UNESCO World Heritage Site and the burial site of Danish monarchs. It's a great afternoon trip from Copenhagen.
+
+The Viking Ship Museum has a collection of well-preserved Viking ships that were excavated from the nearby fjord as well as an active boatyard where you can see traditional shipbuilding techniques in action. I would strongly recommend a tour of the boatyard as it gives you a great insight into how Viking ships were built and the history behind them, although the boatyard tour only runs in Summer months, there is also a indoor tour of the Viking Ship Hall, where all the original ships are displayed, that runs year round.
+
+The also have boat trips during the summer months where you can sail on a reconstructed Viking ship.
 
 ## Malmö
 
+Malmö is Sweden's third largest city and is located just across the Øresund Bridge from Copenhagen. The train journey takes around 35 minutes from Copenhagen Central Station to Malmö Central Station. If you're limited on budget, other than your train ticket, Malmö is generally much cheaper than Copenhagen.
+
 # Further afield
 
-* Gothenburg
+* Gothenburg - A fantastic city in Sweden to visit. Around 3 hours and 40 minutes by train from Copenhagen Central Station.
