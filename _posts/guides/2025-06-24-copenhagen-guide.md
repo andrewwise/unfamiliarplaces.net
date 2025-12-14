@@ -4,8 +4,8 @@ date: '2025-06-04T20:00:00+00:00'
 author: Andrew
 layout: page
 permalink: guides/visitors-guide-to-copenhagen/
-description: A comprehensive guide for visitors to Copenhagen, covering transport, sights, food, and day trips.
-excerpt: A comprehensive guide for visitors to Copenhagen.
+description: An in-depth guide for visitors to Copenhagen, covering transport, sights, food, and day trips.
+excerpt: An in-depth guide for visitors to Copenhagen.
 background: /images/posts/guides/copenhagen/PXL_20240513_153019949.jpg
 ---
 
