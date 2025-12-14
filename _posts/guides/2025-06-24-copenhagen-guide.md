@@ -20,7 +20,7 @@ Copenhagen Airport (CPH) is well connected to the city center. The easiest way t
 
 ![Interior of a modern Danish train](/images/posts/guides/copenhagen/PXL_20250530_114805986.jpg){:title="Interior of a modern Danish train" class="s"}
 
-The airport is also connected to line 2 of the metro system so depending on where you are travelling from the airport this might be a better choice for your.
+The airport is also connected to line 2 of the metro system so depending on where you are travelling from the airport this might be a better choice for you.
 
 ## Public transport
 
@@ -72,9 +72,9 @@ Roundtower (or "Rundetaarn") 17th-century tower in the center of the city. For a
 
 ![Interior of the Copenhagen Round Tower](/images/posts/guides/copenhagen/IMG_1744.JPG){:class="s" title="Interior of the Copenhagen Round Tower"}
 
-Opening hours are general good so it possible to visit during the early evening.
+Opening hours are generally good so it is possible to visit during the early evening.
 
-![Pano of the view from the top of the Copenhagen Round Tower](/images/posts/guides/copenhagen/IMG_1749-PANO.jpg){:class="xl" title="Pano of the view from the top of the Copenhagen Round Tower"}
+![Panoramic view from the top of the Copenhagen Round Tower](/images/posts/guides/copenhagen/IMG_1749-PANO.jpg){:class="xl" title="Panoramic view from the top of the Copenhagen Round Tower"}
 
 The top also has an observatory that you can access, which is open and staffed during winter from 18:00 to 21:00 on Tuesdays and Wednesdays.
 
