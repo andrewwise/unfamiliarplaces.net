@@ -27,6 +27,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 email: andrew@andrewise.co.uk
 instagram_username: _wisey_
 google_analytics: G-LTENRT9XKJ
+google_maps_api_key: AIzaSyC29ecqbx_b6p60Ag5x-4J6LnhNpzc8PS0
 
 # Build settings
 #theme: minima

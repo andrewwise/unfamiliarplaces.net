@@ -26,11 +26,11 @@ The airport is also connected to line 2 of the metro system so depending on wher
 
 Copenhagen has an extensive public transport system that includes buses, trains, and a metro train.
 
-I would recommend downloading the [rejsekort app](https://www.rejsekort.dk/en/rejsekort_app){:target="_blank"} and configuring it with your card details. This allows you jump on any form of public transport in Denmark, use the app to "activate" your journey and then "deactivate" it at the end of your journey. This will then automatically charge you the correct amount for your journey without having to find and navigate a ticket machine. Only one person in any given group is required to have the app as they can add other passengers to their journey.
+I would recommend downloading the [rejsekort app](https://www.rejsekort.dk/en/rejsekort_app){:target="_blank" :rel="noopener"} and configuring it with your card details. This allows you jump on any form of public transport in Denmark, use the app to "activate" your journey and then "deactivate" it at the end of your journey. This will then automatically charge you the correct amount for your journey without having to find and navigate a ticket machine. Only one person in any given group is required to have the app as they can add other passengers to their journey.
 
 ## Bike share
 
-There are various different choice of bike share in Copenhagen. My preference is [Donkey Bike](https://www.donkey.bike/){:target="_blank"} (aka Donkey Republic). These bright orange bikes can be found all over the city and be unlocked with the Donkey Bike app. They also operate in other cities so once you have set up the app it can be useful on other travels. They're mainly conventional bikes (as opposed to e-bikes) and are generally good value.
+There are various different choice of bike share in Copenhagen. My preference is [Donkey Bike](https://www.donkey.bike/){:target="_blank" :rel="noopener"} (aka Donkey Republic). These bright orange bikes can be found all over the city and be unlocked with the Donkey Bike app. They also operate in other cities so once you have set up the app it can be useful on other travels. They're mainly conventional bikes (as opposed to e-bikes) and are generally good value.
 
 ![Two Donkey Bikes](/images/posts/guides/copenhagen/PXL_20240513_172327081.jpg){:title="Two Donkey Bikes" class="portrait"}
 
@@ -48,7 +48,7 @@ There are luggage lockers at Copenhagen Central Station (København H). They are
 
 Nyhavn (meaning "New Haven") is a harbour and canal lined wth colourful buildings, as well has harbouring many old wooden ships, it is probably one of the most photographed part of all of Copenhagen.
 
-[Maps](https://maps.app.goo.gl/C52HUuaDQES7WvaT7){:target="_blank"} \| [Website](https://www.visitcopenhagen.com/copenhagen/planning/nyhavn-gdk474735){:target="_blank"}
+[Maps](https://maps.app.goo.gl/C52HUuaDQES7WvaT7){:target="_blank" :rel="noopener"} \| [Website](https://www.visitcopenhagen.com/copenhagen/planning/nyhavn-gdk474735){:target="_blank" :rel="noopener"}
 
 ## Tivoli Gardens
 
@@ -62,7 +62,7 @@ As well as the rides and attractions, Tivoli Gardens also has beautiful gardens 
 
 If you visit I recommend riding the Rutschebanen (Roller Coaster), it's the third oldest roller coaster in the world and has been in continuous operation since 1914.
 
-[Maps](https://maps.app.goo.gl/27F7CmhqxqTjMpnq9){:target="_blank"} \| [Website](https://www.tivoligardens.com/en){:target="_blank"}
+[Maps](https://maps.app.goo.gl/27F7CmhqxqTjMpnq9){:target="_blank" :rel="noopener"} \| [Website](https://www.tivoligardens.com/en){:target="_blank" :rel="noopener"}
 
 ## Round Tower
 
@@ -78,7 +78,7 @@ Opening hours are generally good so it is possible to visit during the early eve
 
 The top also has an observatory that you can access, which is open and staffed during winter from 18:00 to 21:00 on Tuesdays and Wednesdays.
 
-[Maps](https://maps.app.goo.gl/qio8UtwcUGi1mcA47){:target="_blank"} \| [Website](https://www.rundetaarn.dk/en/){:target="_blank"}
+[Maps](https://maps.app.goo.gl/qio8UtwcUGi1mcA47){:target="_blank" :rel="noopener"} \| [Website](https://www.rundetaarn.dk/en/){:target="_blank" :rel="noopener"}
 
 # Top sights
 
@@ -126,19 +126,25 @@ The top also has an observatory that you can access, which is open and staffed d
 
 Helsingør is a coastal town 55 minutes north of Copenhagen by train, it is my top pick for a day trip out of Copenhagen if you leave in the morning. It is home to the famous and imposing Kronborg Castle, known as Elsinore in Shakespeare's play Hamlet. Trains there run frequently from Copenhagen Central Station.
 
+{% include map.html from="Copenhagen Central Station" to="Helsingør Station" %}
+
 The castle has views over the Øresund strait to Sweden and is a UNESCO World Heritage Site. It has also a large underground casemates network that is fun to explore.
 
 ## Roskilde and The Viking Ship Museum
 
 Roskilde is a historic city located about 30 minutes west of Copenhagen by train. It is famous for its impressive cathedral, which is a UNESCO World Heritage Site and the burial site of Danish monarchs. It's a great afternoon trip from Copenhagen.
 
+{% include map.html from="Copenhagen Central Station" to="Roskilde Station" %}
+
 The Viking Ship Museum has a collection of well-preserved Viking ships that were excavated from the nearby fjord as well as an active boatyard where you can see traditional shipbuilding techniques in action. I would strongly recommend a tour of the boatyard as it gives you a great insight into how Viking ships were built and the history behind them, although the boatyard tour only runs in Summer months, there is also a indoor tour of the Viking Ship Hall, where all the original ships are displayed, that runs year round.
 
-The also have boat trips during the summer months where you can sail on a reconstructed Viking ship.
+There are also have boat trips during the summer months where you can sail on a reconstructed Viking ship.
 
 ## Malmö
 
 Malmö is Sweden's third largest city and is located just across the Øresund Bridge from Copenhagen. The train journey takes around 35 minutes from Copenhagen Central Station to Malmö Central Station. If you're limited on budget, other than your train ticket, Malmö is generally much cheaper than Copenhagen.
+
+{% include map.html from="Copenhagen Central Station" to="Malmö Central Station" %}
 
 # Further afield
 
