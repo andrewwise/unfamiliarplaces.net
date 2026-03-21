@@ -1,0 +1,17 @@
+{% comment %}
+This is a reusable map component that can be included in any page or post.
+
+It uses the Google Maps Embed API. Documentation can be found here: https://developers.google.com/maps/documentation/embed/embedding-map
+{% endcomment %}
+<iframe
+  width="600"
+  height="450"
+  style="border:0"
+  loading="lazy"
+  allowfullscreen
+  src="https://www.google.com/maps/embed/v1/directions?key={{ site.google_maps_api_key }}&origin={{ include.from }}&destination={{ include.to }}&mode=transit"
+  style="max-width: 100%; width: 100%;"
+></iframe>
+<p style="margin-top: 0;">
+  <a href="https://www.google.com/maps/dir/?api=1&origin={{ include.from }}&destination={{ include.to }}&travelmode=transit" target="_blank" rel="noopener">View on Google Maps</a>
+</p>
