@@ -22,11 +22,13 @@ Copenhagen Airport (CPH) is well connected to the city center. The easiest way t
 
 The airport is also connected to line 2 of the metro system so depending on where you are travelling from the airport this might be a better choice for you.
 
+{% include map.html from="Copenhagen Airport" to="Copenhagen Central Station" %}
+
 ## Public transport
 
 Copenhagen has an extensive public transport system that includes buses, trains, and a metro train.
 
-I would recommend downloading the [rejsekort app](https://www.rejsekort.dk/en/rejsekort_app){:target="_blank" :rel="noopener"} and configuring it with your card details. This allows you jump on any form of public transport in Denmark, use the app to "activate" your journey and then "deactivate" it at the end of your journey. This will then automatically charge you the correct amount for your journey without having to find and navigate a ticket machine. Only one person in any given group is required to have the app as they can add other passengers to their journey.
+I would recommend downloading the [rejsekort app](https://www.rejsekort.dk/en/rejsekort_app){:target="_blank" :rel="noopener"} and configuring it with your card details. This allows you jump on any form of public transport in Denmark, use the app to "activate" your journey and then "deactivate" it at the end of your journey. This will then automatically charge you the correct amount for your journey without having to find and navigate a ticket machine. Only one person in any given group is required to have the app as they can add other passengers to their journey. Once set up, it is far quicker than buying tickets for each journey from the ticket machines.
 
 ## Bike share
 
@@ -82,17 +84,17 @@ The top also has an observatory that you can access, which is open and staffed d
 
 # Top sights
 
-* The Little Mermaid statue
+* The Little Mermaid statue - Dispite being one for the most famous sights in Copenhagen, many find it to be underwhelming. It is a small statue on a rock in the harbour. However, the walk from central Copenhagen to the statue you along the waterfront is well worth it and the statue is a nice reward at the end.
 * Rosenborg Castle
 * Christiansborg Palace
 * Gy Carlsberg
-* Walking tour
+* Walking tour - 
 * Christiania
-* Walk/bike the habour
+* Walk/bike the harbour
 
 ## Central
 
-* Botanical Gardens (next to Rosenborg Slot)
+* Botanical Gardens (next to Rosenborg Slot) - During summer the gardens are beautiful and can be a great place for a picnic (along with the slightly quieter Ørstedsparken nearby). The gardens also have large greenhouse complex with a large collection of tropical plants and cacti. The gardens are free to enter but there is a small fee to enter the greenhouses.
 * Rosenborg Slot (next to Botanical Gardens)
 * SMK – Statens Museum for Kunst (next to the above) - Closed Monday
 * Ny Carlsberg Glyptotek - Art gallery and garden - Closed Monday
@@ -120,7 +122,7 @@ The top also has an observatory that you can access, which is open and staffed d
 
 * Atlas Bar - Vegan bar with great food in central Copenhagen.
 
-# Day trips
+# Day trips from Copenhagen
 
 ## Helsingør and Kronborg Castle
 
@@ -128,7 +130,7 @@ Helsingør is a coastal town 55 minutes north of Copenhagen by train, it is my t
 
 {% include map.html from="Copenhagen Central Station" to="Helsingør Station" %}
 
-The castle has views over the Øresund strait to Sweden and is a UNESCO World Heritage Site. It has also a large underground casemates network that is fun to explore.
+The castle has views over the Øresund strait to Sweden and is a UNESCO World Heritage Site. It has also a large underground casemates network that is fun to explore, bring a torch!
 
 ## Roskilde and The Viking Ship Museum
 
